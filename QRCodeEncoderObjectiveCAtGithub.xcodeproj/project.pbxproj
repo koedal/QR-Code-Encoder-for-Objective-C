@@ -219,6 +219,9 @@
 /* Begin PBXProject section */
 		9672D34E13BD662F0002B0E2 /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
 			buildConfigurationList = 9672D35113BD662F0002B0E2 /* Build configuration list for PBXProject "QRCodeEncoderObjectiveCAtGithub" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
@@ -378,6 +381,7 @@
 				DSTROOT = /tmp/QRCodeEncoderObjectiveCAtGithub.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "QRCodeEncoderObjectiveCAtGithub/QRCodeEncoderObjectiveCAtGithub-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INSTALL_OWNER = "";
 				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
 				OTHER_LDFLAGS = "-ObjC";
@@ -396,6 +400,7 @@
 				DSTROOT = /tmp/QRCodeEncoderObjectiveCAtGithub.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "QRCodeEncoderObjectiveCAtGithub/QRCodeEncoderObjectiveCAtGithub-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INSTALL_OWNER = "";
 				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
 				OTHER_LDFLAGS = "-ObjC";
